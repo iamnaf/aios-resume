@@ -125,9 +125,9 @@ if (isset($_POST["submit"])) {
 
                 <div class="section-title">
                     <h2>Portfolio</h2>
-                    <p>Resume Page</p>
+                    <p><a href="https://aios-resume.herokuapp.com/">Resume Page</a></p>
                     <p>Automated Medicine Dispenser</p>
-                    <p>Bluetooth Controlled DC Fan with smartphone</p>
+                    <p><a href="https://www.youtube.com/watch?v=TglPkSj7FyU&t=15s">Bluetooth Controlled DC Fan with smartphone</a></p>
                     <p><a href="https://github.com/iamnaf">Find More Here</a></p>
                 </div>
             </div>
