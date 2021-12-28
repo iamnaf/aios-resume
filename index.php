@@ -89,8 +89,7 @@ if (isset($_POST["submit"])) {
 
                 <div class="section-title">
                     <h2>About</h2>
-                    <p>A graduate of Electrical Electronics Engineering with interest in Backend Development and Data
-                        Science.</p>
+                    <p>A graduate of Electrical Electronics Engineering with interest in Backend Development with Python Programming Language.</p>
                 </div>
 
             </div>
@@ -104,11 +103,16 @@ if (isset($_POST["submit"])) {
 
                 <div class="section-title">
                     <h2>Resume</h2>
-                    <p>Currently undergoing backend development internship at HNGi8 x Zuri x I4G</p>
                 </div>
 
                 <div class="row">
                     <h3 class="resume-title">Education</h3>
+                    <div class="resume-item">
+                        <h4>Introduction to Programming Nanodegree</h4>
+                        <h5>December, 2021</h5>
+                        <p><em>Udacity</em></p>
+                    </div>
+                    
                     <div class="resume-item">
                         <h4>B.Eng. Electrical Electronics Engineering</h4>
                         <h5>2013 - 2018</h5>
