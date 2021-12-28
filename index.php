@@ -144,7 +144,6 @@ if (isset($_POST["submit"])) {
                 <div class="section-title">
                     <h2>Learning Stack</h2>
                     <p>Python</p>
-                    <p>Flutter for Android</p>
                     <p>HTML, CSS and Javascript</p>
                 </div>
             </div>
